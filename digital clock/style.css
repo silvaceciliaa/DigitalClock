@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("heart.png");
+    background-size: cover;
+
+}
+.time {
+    font-family: 'Abril Fatface', cursive;
+ color: #004AAD;
+ font-size: 4rem;
+ position: absolute;
+ top: 45%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+}
+.date{
+    font-family: 'Abril Fatface', cursive;
+    color: #004AAD ;
+    position: absolute;
+    top: 55%;
+    left: 60%;
+    transform: translate(-100%, -62%);
+    font-size: 3em;
+}
